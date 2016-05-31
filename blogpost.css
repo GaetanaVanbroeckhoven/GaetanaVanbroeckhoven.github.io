@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
 body{
   width: 100%;
   background-color:#F0F0F0;
@@ -24,15 +25,15 @@ body{
 h1{
   padding-top: 1.5%;
   margin-left: 31%;
-  font-size: 520%;
-  font-family: "Jenna Sue";
+  font-size: 420%;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 h3{
   padding-top: -2%;
   margin-left: 50%;
-  font-size: 250%;
-  font-family: "Jenna Sue";
+  font-size: 200%;
+  font-family: 'Shadows Into Light', cursive;
   color: mediumturquoise;
 }
 
@@ -127,8 +128,8 @@ img{
 }
 
 .greets{
-  font-family: "Jenna Sue";
-  font-size: 200%;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 140%;
 }
 
 /*footer*/
@@ -151,10 +152,11 @@ a{
 }
 
 h2 {
-  padding-bottom: 5px;
-  font-family: "Jenna Sue";
-  font-size: 280%;
+  padding-bottom: 12px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 210%;
 }
+
 
 p > a, h4 > a, .lv{
   color: lightslategrey;
